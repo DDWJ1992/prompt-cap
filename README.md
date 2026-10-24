@@ -196,10 +196,10 @@ prompt-cap/
 
 ### Buy / 购买链接（占位）
 
-- **[Buy on Creem (test)](https://www.creem.io/payment/prod_vUnFdFeaYwI3zEUJcZ6PZ)** — 主收款（Creem）
+- **[Buy on Creem](https://www.creem.io/payment/prod_vUnFdFeaYwI3zEUJcZ6PZ)** — 主收款（Creem）
 - **[Buy on Gumroad — coming soon](#)** — 备用渠道
 
-上架后替换为真实 URL。商品文案见 [`docs/pricing-copy.md`](./docs/pricing-copy.md)；上架清单见 [`docs/launch-checklist.md`](./docs/launch-checklist.md)。
+Live 结账已上线（$12 一次性）。商品文案见 [`docs/pricing-copy.md`](./docs/pricing-copy.md)；上架清单见 [`docs/launch-checklist.md`](./docs/launch-checklist.md)。
 
 ### Pricing / Purchase (EN)
 
@@ -210,7 +210,7 @@ prompt-cap/
 | **Free (MIT)** | Full hard-stop, setup/wire/inject/resume/doctor, self-test — clone & run yourself |
 | **Buyout $12** (one-time) | Signed / one-click installers + light install support; **same** open core — **no** lock on hard-stop |
 
-Placeholders: [Buy on Creem (test)](https://www.creem.io/payment/prod_vUnFdFeaYwI3zEUJcZ6PZ) · [Buy on Gumroad — coming soon](#)
+Placeholders: [Buy on Creem](https://www.creem.io/payment/prod_vUnFdFeaYwI3zEUJcZ6PZ) · [Buy on Gumroad — coming soon](#)
 
 
 ---
