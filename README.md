@@ -1,5 +1,8 @@
 # prompt-cap
 
+**Repo:** https://github.com/DDWJ1992/prompt-cap
+
+
 **单账号 Claude Code 硬停 CLI**  
 过线即通过 PreToolUse **deny** 工具调用 —— 不做看板、不做换号、不做云。
 
