@@ -1,0 +1,35 @@
+{
+  "name": "prompt-cap",
+  "version": "0.2.0",
+  "description": "Single-account Claude Code hard-stop CLI — deny PreToolUse when usage crosses your lines",
+  "type": "module",
+  "bin": {
+    "prompt-cap": "./bin/prompt-cap.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "hooks",
+    "docs",
+    "test"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node ./bin/prompt-cap.js",
+    "setup": "node ./bin/prompt-cap.js setup",
+    "status": "node ./bin/prompt-cap.js status",
+    "test": "node ./test/run.js",
+    "doctor": "node ./bin/prompt-cap.js doctor"
+  },
+  "keywords": [
+    "claude-code",
+    "rate-limit",
+    "hooks",
+    "cli",
+    "hard-stop"
+  ],
+  "license": "MIT",
+  "author": "yingjun li"
+}
